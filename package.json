@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-trello",
+  "version": "1.0.0",
+  "description": "Semana 4 de LaunchX-InnovaccionVirtual Mission NodeJS: API REST Trello",
+  "main": "boards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioadriglez/API-REST-Trello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioadriglez/API-REST-Trello/issues"
+  },
+  "homepage": "https://github.com/Julioadriglez/API-REST-Trello#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
