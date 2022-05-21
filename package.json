@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Julioadriglez/API-REST-Trello#readme",
   "dependencies": {
-    "node-fetch": "^3.2.4"
+    "node-fetch": "^2.6.7"
   }
 }
